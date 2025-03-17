@@ -10,3 +10,5 @@
 - 2025.03.09
 训练了bonus_unit_1 暂时有问题
 unit_2部分 暂时只更新了smolagents内容
+- 2025.03.17
+修复了bonus_unit_1的问题
